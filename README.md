@@ -2,7 +2,7 @@
 
 <p align="center"><img src="./hero.svg?v=4" alt="Hi, I'm Olivia Onyekaba, AI Web Developer" width="96%"/></p>
 
-<p align="center"><img src="./strip.svg?v=5" alt="Gollum chases a glowing ring back and forth" width="96%"/></p>
+<p align="center"><img src="./strip.svg?v=6" alt="Gollum chases a glowing ring back and forth" width="96%"/></p>
 
 <p align="center"><img src="./about.svg?v=4" alt="Chapter I: The Forge. I'm Olivia, a web developer who builds with AI." width="96%"/></p>
 
@@ -16,13 +16,15 @@
 
 ## Quests
 
-| Quest | What it is | Realm |
+| Quest | What it is | Tools used |
 |:--|:--|:--|
-| [**AfroVoy**](https://afrovoy.com/) | Travel and hospitality marketplace | Web |
-| [**Sevently**](https://sevently.netlify.app/) | Live website | Web |
-| [**Kunle Ilori Diamond**](https://kunleiloridiamond.com/) | Live website | Web |
-| [**Olivia's Portfolio**](https://olivia-liv.vercel.app/) | Personal developer portfolio | Web |
-| [**Solufix Standard Cleaning**](https://solufixstandardcleaning.com/) | Live website for a cleaning company | Web |
+| [**AfroVoy**](https://afrovoy.com/) | Travel and hospitality marketplace | <img src="./chips/afrovoy.svg" alt="Next.js, Laravel" width="300"/> |
+| [**Sevently**](https://sevently.netlify.app/) | Live website | <img src="./chips/sevently.svg?v=1" alt="Next.js, React, TypeScript, Tailwind, Supabase, Netlify" width="300"/> |
+| [**Kunle Ilori Diamond**](https://kunleiloridiamond.com/) | Live website | <img src="./chips/kunle.svg?v=1" alt="Astro, TypeScript, Supabase" width="300"/> |
+| [**Olivia's Portfolio**](https://olivia-liv.vercel.app/) | Personal developer portfolio | <img src="./chips/portfolio.svg?v=1" alt="Next.js, React, TypeScript, Tailwind, Vercel" width="300"/> |
+| [**Solufix Standard Cleaning**](https://solufixstandardcleaning.com/) | Live website for a cleaning company | <img src="./chips/solufix.svg?v=1" alt="Next.js, React, TypeScript, Tailwind, Supabase, Netlify" width="300"/> |
+
+<p align="center"><img src="./sprite.svg?v=1" alt="Olivia the archer, quests complete" width="50%"/></p>
 
 <div align="center">
 
