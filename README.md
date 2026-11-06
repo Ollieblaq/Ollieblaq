@@ -32,7 +32,7 @@
 
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
 
-<img src="./connect.svg?v=2" alt="Connect: GitHub, LinkedIn and email beacons" width="100%"/>
+<img src="./connect.svg?v=3" alt="Connect: GitHub, LinkedIn and email palantir orbs" width="100%"/>
 
 <a href="https://github.com/Ollieblaq"><img src="https://img.shields.io/badge/GitHub-e8c872?style=for-the-badge&logo=github&logoColor=0b0e16" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/olivia-onyekaba"><img src="https://img.shields.io/badge/LinkedIn-7fa8ff?style=for-the-badge&logo=linkedin&logoColor=0b0e16" alt="LinkedIn"/></a>
