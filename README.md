@@ -2,7 +2,7 @@
 
 <p align="center"><img src="./hero.svg?v=4" alt="Hi, I'm Olivia Onyekaba, AI Web Developer" width="96%"/></p>
 
-<p align="center"><img src="./strip.svg?v=4" alt="Gollum chases a glowing ring back and forth" width="96%"/></p>
+<p align="center"><img src="./strip.svg?v=5" alt="Gollum chases a glowing ring back and forth" width="96%"/></p>
 
 <p align="center"><img src="./about.svg?v=4" alt="Chapter I: The Forge. I'm Olivia, a web developer who builds with AI." width="96%"/></p>
 
